@@ -1,6 +1,13 @@
 !!!!! This sample is not a demonstration of my best code, it is simply a demonstration of my c++ abilities in particular.
 !!!!! If you want to see what I consider more practical and functional code, please look at my other code samples.
 
+Eigen Main Page: http://eigen.tuxfamily.org/index.php?title=Main_Page
+File Processing Reference: https://studiofreya.com/2015/09/12/read-and-write-to-file-in-c/#:~:text=C%2B%2B%20read%20file.%20C%2B%2B%20uses%20file%20streams%20for,to%20first%20attach%20the%20stream%20to%20a%20file.
+GeneralizedBresenham Reference: https://www.cs.drexel.edu/~david/Classes/CS430/Lectures/L-02_Lines.pdf
+CohenSutherland Reference: https://www.geeksforgeeks.org/line-clipping-set-1-cohen-sutherland-algorithm/
+SutherlandHodgman Reference: https://www.geeksforgeeks.org/polygon-clipping-sutherland-hodgman-algorithm-please-change-bmp-images-jpeg-png/
+Scan Line Filling Reference: https://www.geeksforgeeks.org/scan-line-polygon-filling-using-opengl-c/
+
 The language used was C++ and the OS was linux, as the program was created on tux. The compiler is g++.
 
 The program is only 1 file named "main.cpp". 
